@@ -2,7 +2,7 @@
 
   <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- Active Directory Home Lab (https://github.com/romanjeanpierre/ActiveDirectoryLab)
+- Active Directory Home Lab (https://github.com/romanjeanpierre/RDP_Attack_Heatmap)
 
 <h2>Certifications</h2>
 
