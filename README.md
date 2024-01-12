@@ -1,13 +1,38 @@
-<h1>Hi, I'm Jean-Pierre! <br/><a href="https://github.com/romanjeanpierre">SOC | Incident Response & Digital Forensics | </a> <a href="https://www.linkedin.com/in/romanjeanpierre/">Cybersecurity Student</a>
+<h1>Hi, I'm Jean-Pierre! <br/><a href="https://github.com/romanjeanpierre">SOC | Digital Forensics & Incident Response | </a> <a href="https://www.linkedin.com/in/romanjeanpierre/">Cybersecurity Student</a>
 
-  <h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- Global Heat Map: Honeypot - Failed RDP Logins (https://github.com/romanjeanpierre/RDP_Attack_Heatmap)
+<h3>Digital Forensics</h3>
+
+<ul>
+  <li>Memory and Storage Acquisition (Link TBD)</li>
+  <li>Memory Analysis With Volatility (Link TBD)</li>
+  <li>Storage Analysis With Autopsy (Link TBD)</li>
+  <li>Infected Windows Investigation (Link TBD)</li>
+</ul>
+
+<h3>Incident Response</h3>
+
+<ul>
+  <li>Network Analysis: PCAP Investigations (Link TBD)</li>
+  <li>Event Log Investigation w/ DeepBlueCLI (Link TBD)</li>
+  <li>Windows Persistence Analysis w/ CMD and Powershell (Link TBD)</li>
+</ul>
+
+<h3>Splunk S.I.E.M</h3>
+<ul>
+  <li>Malware Hunt - Investigating SIEM Artifacts using Splunk (Link TBD)</li>
+</ul>
+
+<h3> Microsoft Azure </h3>
+
+<ul>
+  <li>Global Heat Map: Honeypot - Failed RDP Logins (https://github.com/romanjeanpierre/RDP_Attack_Heatmap)</li>
+</ul>
 
 <h2>Certifications</h2>
 
-- Security Blue Team - Blue Team Level 1 (In-Progress - Exam DEC 2023)
-- CompTIA - Security+ (In-Progress - Exam DEC 2023)
+- Security Blue Team - Blue Team Level 1 (Exam: Jan 19 2024)
 - Google Cybersecurity Professional (https://www.credly.com/badges/f707456b-b240-4b0a-986d-123556d93007/public_url)
 - AWS - Certified Cloud Practitioner (https://www.credly.com/badges/3077a5b7-1639-4acf-8487-ddca654f03ce/linked_in_profile)
 - PMI - Certified Associate in Project Management (https://www.credly.com/badges/40ff47e6-f999-42cc-9e3c-eca65c18149a/linked_in_profile)
