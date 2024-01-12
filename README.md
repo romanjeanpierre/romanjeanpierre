@@ -24,6 +24,11 @@
   <li>Malware Hunt - Investigating SIEM Artifacts using Splunk (Link TBD)</li>
 </ul>
 
+<h3>Phishing Emails Analysis</h3>
+<ul>
+  <li>Phishing Incident Analysis and Response (Link TBD)</li>
+</ul>
+
 <h3> Microsoft Azure </h3>
 
 <ul>
