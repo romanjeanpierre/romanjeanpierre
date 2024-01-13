@@ -5,7 +5,7 @@
 <h3>Digital Forensics</h3>
 
 <ul>
-  <li>Forensic Acquisition of Infected Workstation: Memory Dump & Disk Imaging (Link TBD)</li>
+  <li>Acquisition of Infected Workstation: Memory Dump & Disk Imaging (https://github.com/romanjeanpierre/Memory-Disk-Acquisition)</li>
   <li>Memory Analysis With Volatility (Link TBD)</li>
   <li>Storage Analysis With Autopsy (Link TBD)</li>
   <li>Infected Windows Investigation (Link TBD)</li>
