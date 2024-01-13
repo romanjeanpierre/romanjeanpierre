@@ -35,6 +35,12 @@
   <li>Global Heat Map: Honeypot - Failed RDP Logins (https://github.com/romanjeanpierre/RDP_Attack_Heatmap)</li>
 </ul>
 
+<h3> Active Directory </h3>
+
+<ul>
+  <li>Active Directory Administration: Configuring OUs, Group Policy Objects & Users (Link TBD) </li>
+</ul>
+
 <h2>Certifications</h2>
 
 - Security Blue Team - Blue Team Level 1 (Exam: Jan 19 2024)
