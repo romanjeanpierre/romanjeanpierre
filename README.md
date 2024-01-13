@@ -41,6 +41,12 @@
   <li>Active Directory Administration: Configuring OUs, Group Policy Objects & Users (Link TBD) </li>
 </ul>
 
+<h3> Governance, Risk & Compliance (GRC) </h3>
+
+<ul>
+  <li> Acceptable Use Policy - SANS Format (Link TBD) </li>
+</ul>
+
 <h2>Certifications</h2>
 
 - Security Blue Team - Blue Team Level 1 (Exam: Jan 19 2024)
