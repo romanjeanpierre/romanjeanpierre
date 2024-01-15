@@ -8,7 +8,7 @@
   <li>Acquisition of Infected Workstation: Memory Dump & Disk Imaging (https://github.com/romanjeanpierre/Memory-Disk-Acquisition)</li>
   <li>Memory Dump Analysis With Volatility (https://github.com/romanjeanpierre/Memory_Analysis_Volatility)</li>
   <li>Disk Image Analysis With Autopsy (https://github.com/romanjeanpierre/Disk_Analysis_Autopsy)</li>
-  <li>Tracing Malicious Activity in Windows OS</li>
+  <li>Tracing Malicious Activity in Windows OS (https://github.com/romanjeanpierre/TraceMalware_WindowsOS) </li>
 </ul>
 
 <h3>Incident Response</h3>
