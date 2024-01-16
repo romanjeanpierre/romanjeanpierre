@@ -26,7 +26,7 @@
 
 <h3>Phishing Email Analysis</h3>
 <ul>
-  <li>Extracting & Investigating Phishing Email Artifacts (Link TBD)</li>
+  <li>Extracting & Investigating Phishing Email Artifacts (https://github.com/romanjeanpierre/Phish_Artifacts_Investigation)</li>
   <li>Report Writing & Defensive Measures Recommendation (Link TBD)</li>
 </ul>
 
