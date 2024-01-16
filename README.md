@@ -15,7 +15,7 @@
 
 <ul>
   <li>Network Analysis: PCAP Investigations (https://github.com/romanjeanpierre/PCAP_Analysis)</li>
-  <li>Event Log Investigation w/ DeepBlueCLI (Link TBD)</li>
+  <li>Event Log Investigation w/ DeepBlueCLI (https://github.com/romanjeanpierre/DeepBLueCLI_EventViewer)</li>
   <li>Windows Persistence Analysis w/ CMD and Powershell (https://github.com/romanjeanpierre/Persistence_w_CMD-Shell)</li>
 </ul>
 
