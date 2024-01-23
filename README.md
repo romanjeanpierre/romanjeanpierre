@@ -21,7 +21,9 @@
 
 <h3>Splunk S.I.E.M</h3>
 <ul>
-  <li>Malware Hunt - Investigating SIEM Artifacts using Splunk (Link TBD)</li>
+  <li> Brute Force Investigation (Link TBD)</li>
+  <li> In-Depth Analysis of a Suspicious Registry File (Link TBD)</li>
+  <li> Operational Intelligence: Streamlining Security Event Analysis Through Custom Dashboard Development (Link tbd) </li>
 </ul>
 
 <h3>Phishing Email Analysis</h3>
