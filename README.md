@@ -23,13 +23,13 @@
 <ul>
   <li> Brute Force Investigation (https://github.com/romanjeanpierre/Brute_Force_Investigation)</li>
   <li> In-Depth Analysis of a Suspicious Registry File (https://github.com/romanjeanpierre/Sus_Regmod)</li>
-  <li> Operational Intelligence: Streamlining Security Event Analysis Through Custom Dashboard Development (Link tbd) </li>
+  <li> Operational Intelligence: Streamlining Security Event Analysis Through Custom Dashboard Development (Pending) </li>
 </ul>
 
 <h3>Phishing Email Analysis</h3>
 <ul>
   <li>Extracting & Investigating Phishing Email Artifacts (https://github.com/romanjeanpierre/Phish_Artifacts_Investigation)</li>
-  <li>Report Writing & Defensive Measures Recommendation (Link TBD)</li>
+  <li>Report Writing & Defensive Measures Recommendation (Pending)</li>
 </ul>
 
 <h3> Microsoft Azure </h3>
@@ -41,13 +41,13 @@
 <h3> Active Directory </h3>
 
 <ul>
-  <li>Active Directory Administration: Configuring OUs, Group Policy Objects & Users (Link TBD) </li>
+  <li>Active Directory Administration: Configuring OUs, Group Policy Objects & Users (Pending) </li>
 </ul>
 
 <h3> Governance, Risk & Compliance (GRC) </h3>
 
 <ul>
-  <li> Acceptable Use Policy - SANS Format (Link TBD) </li>
+  <li> Acceptable Use Policy - SANS Format (Pending) </li>
 </ul>
 
 <h2>Certifications</h2>
