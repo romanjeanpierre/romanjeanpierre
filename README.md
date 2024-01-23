@@ -52,7 +52,7 @@
 
 <h2>Certifications</h2>
 
-- Security Blue Team - Blue Team Level 1 (https://www.securityblue.team/)
+- Security Blue Team - Blue Team Level 1 (https://www.credly.com/badges/1d45e7af-8285-4fee-a9ea-77649f9d7093/public_url)
 - Google Cybersecurity Professional (https://www.credly.com/badges/f707456b-b240-4b0a-986d-123556d93007/public_url)
 - AWS - Certified Cloud Practitioner (https://www.credly.com/badges/3077a5b7-1639-4acf-8487-ddca654f03ce/linked_in_profile)
 - PMI - Certified Associate in Project Management (https://www.credly.com/badges/40ff47e6-f999-42cc-9e3c-eca65c18149a/linked_in_profile)
