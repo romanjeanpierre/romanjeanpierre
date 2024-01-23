@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jean-Pierre! <br/><a href="https://github.com/romanjeanpierre">SOC | Digital Forensics & Incident Response | </a> <a href="https://www.linkedin.com/in/romanjeanpierre/">Cybersecurity Student</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Portfolio:</h2>
 
 <h3>Digital Forensics</h3>
 
