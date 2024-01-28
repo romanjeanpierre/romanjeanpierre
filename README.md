@@ -28,7 +28,7 @@
 
 <h3>Phishing Email Analysis</h3>
 <ul>
-  <li>Extracting & Investigating Phishing Email Artifacts (https://github.com/romanjeanpierre/Phish_Artifacts_Investigation)</li>
+  <li>Phishing Analysis & Response Framework (https://github.com/romanjeanpierre/Phishing_Investigation)</li>
   <li>Report Writing & Defensive Measures Recommendation (Pending)</li>
 </ul>
 
