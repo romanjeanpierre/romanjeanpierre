@@ -29,7 +29,7 @@
 <h3>Phishing Email Analysis</h3>
 <ul>
   <li>Phishing Analysis & Response Framework (https://github.com/romanjeanpierre/Phishing_Investigation)</li>
-  <li>Report Writing & Defensive Measures Recommendation (Pending)</li>
+  <li>Phishing Report Writing example ()</li>
 </ul>
 
 <h3> Microsoft Azure </h3>
