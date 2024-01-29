@@ -23,7 +23,7 @@
 <ul>
   <li> Brute Force Investigation (https://github.com/romanjeanpierre/Brute_Force_Investigation)</li>
   <li> In-Depth Analysis of a Suspicious Registry File (https://github.com/romanjeanpierre/Sus_Regmod)</li>
-  <li> Operational Intelligence: Streamlining Security Event Analysis Through Custom Dashboard Development (Pending) </li>
+  <li> Custom Dashboard for Efficient Security Event Analysis (Pending) </li>
 </ul>
 
 <h3>Phishing Email Analysis</h3>
